@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/darthinfo21/mytodo-app/static/css/main.f2ee8cb3.css",
+    "main.js": "/darthinfo21/mytodo-app/static/js/main.de65f8e7.js",
+    "static/js/156.9e10d69c.chunk.js": "/darthinfo21/mytodo-app/static/js/156.9e10d69c.chunk.js",
+    "static/media/logo.svg": "/darthinfo21/mytodo-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/darthinfo21/mytodo-app/index.html",
+    "main.f2ee8cb3.css.map": "/darthinfo21/mytodo-app/static/css/main.f2ee8cb3.css.map",
+    "main.de65f8e7.js.map": "/darthinfo21/mytodo-app/static/js/main.de65f8e7.js.map",
+    "156.9e10d69c.chunk.js.map": "/darthinfo21/mytodo-app/static/js/156.9e10d69c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2ee8cb3.css",
+    "static/js/main.de65f8e7.js"
+  ]
+}
